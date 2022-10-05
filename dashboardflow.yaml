@@ -1,0 +1,19 @@
+appId: com.example.laddermobile
+---
+#- launchApp
+- tapOn: "Email"
+- inputText: "chrisaydat@gmail.com"
+- tapOn: "Password"
+- inputText: "chrisaydat1CHRIS@"
+- tapOn: "Login"
+- scroll
+- tapOn: "Flex Dollar"
+- tapOn: "Add money"
+- tapOn: "Amount(GHS)"
+- inputText: "1000"
+- tapOn: "Choose"
+- tapOn: "MTN 0540755223"
+- tapOn: "Confirm"
+- tapOn: "Confirm"
+- tapOn: "Continue"
+- tapOn: "All done!"

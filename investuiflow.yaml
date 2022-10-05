@@ -1,0 +1,24 @@
+appId: com.example.laddermobile
+---
+#- launchApp
+- tapOn: "Email"
+- inputText: "chrisaydat@gmail.com"
+- tapOn: "Password"
+- inputText: "chrisaydat1CHRIS@"
+- tapOn: "Login"
+#- assertVisible: "Profile"
+- tapOn: 
+    text: "Investments\nTab 3 of 4"
+- tapOn: "Start a new Investment"
+- tapOn: "Explore"
+- tapOn: 
+    text: "+20%\nSweet Potato\nLow Risk"
+- scroll 
+- tapOn: "Continue"
+- tapOn: "Amount (GHS)"
+- inputText: "1050"
+- tapOn: "Choose"
+- tapOn: "MTN 0540755223"
+- tapOn: "Continue"
+- tapOn: "Confirm"
+- tapOn: "Continue"

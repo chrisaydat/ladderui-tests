@@ -1,0 +1,15 @@
+appId: com.example.laddermobile
+---
+#- launchApp
+- tapOn: "Email"
+- inputText: "chrisaydat@gmail.com"
+- tapOn: "Password"
+- inputText: "chrisaydat1CHRIS@"
+- tapOn: "Login"
+- tapOn: "Profile\nTab 4 of 4"
+- tapOn: "Notifications"
+- tapOn: "Email"
+- tapOn: "SMS"
+- tapOn: "Push"
+- Back
+- Back

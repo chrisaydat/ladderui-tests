@@ -1,0 +1,21 @@
+appId: com.example.laddermobile
+---
+#- launchApp
+- tapOn: "Email"
+- inputText: "chrisaydat@gmail.com"
+- tapOn: "Password"
+- inputText: "chrisaydat1CHRIS@"
+- tapOn: "Login"
+- tapOn: "Profile\nTab 4 of 4"
+- tapOn: "Security"
+- tapOn: "Change your Password"
+- tapOn: "Old Password"
+- inputText: "chrisaydat1CHRIS@"
+- tapOn: "New Password"
+- inputText: "chrisaydat1CHRIS@"
+- tapOn: "Confirm Password"
+- inputText: "chrisaydat1CHRIS@"
+- tapOn: "Reset Password"
+- tapOn: "OK"
+
+#though new password and confirm password match, confirm password shows error message(passwords do not match)

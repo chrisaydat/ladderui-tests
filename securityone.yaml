@@ -1,0 +1,19 @@
+appId: com.example.laddermobile
+---
+#- launchApp
+- tapOn: "Email"
+- inputText: "chrisaydat@gmail.com"
+- tapOn: "Password"
+- inputText: "chrisaydat1CHRIS@"
+- tapOn: "Login"
+- tapOn: "Profile\nTab 4 of 4"
+- tapOn: "Security"
+- tapOn: "Change your Pin"
+- tapOn: "5"
+- tapOn: "7"
+- tapOn: "2"
+- tapOn: "4"
+- back
+
+#first popup says pin is incorrect, but recognises same pin for my withdrawal and payments but does not for my login and chnaging of pin
+#suggestion add forgetten pin, reset by email.
