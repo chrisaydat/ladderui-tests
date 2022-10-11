@@ -1,13 +1,13 @@
 appId: com.example.laddermobile
 ---
 #- launchApp
-#- tapOn: "Email"
-#- inputText: "chrisaydat@gmail.com"
-#- tapOn: "Password"
-#- inputText: "chrisaydat1CHRIS@"
-#- tapOn: "Login"
-#- tapOn: 
-   # text: "Stash\nTab 2 of 4"
+- tapOn: "Email"
+- inputText: "chrisaydat@gmail.com"
+- tapOn: "Password"
+- inputText: "chrisaydat1CHRIS@"
+- tapOn: "Login"
+- tapOn: 
+    text: "Stash\nTab 2 of 4"
 - tapOn: "Quick Actions"
 - tapOn: 
     text: "Create a custom\nsavings plan"
