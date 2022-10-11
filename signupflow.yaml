@@ -4,12 +4,14 @@ appId: com.example.laddermobile
 - tapOn: "Next"
 - tapOn: "Next"
 - tapOn: "Next"
-- tapOn: "Get Started"
+- tapOn: 
+    text: "Get Started"
 - tapOn: "Email"
-- inputText: "chrisaydat@gmail.com"
+- inputText: "theaydat@gmail.com"
 - tapOn: "Password"
 - inputText: "chrisaydat1CHRIS@"
-- tapOn: "Confirm Password"
+- tapOn: 
+   text: "Comfirm Password"
 - inputText: "chrisaydat1CHRIS@"
 - tapOn: "Sign Up"
 - tapOn: "Continue"

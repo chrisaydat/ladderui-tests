@@ -1,13 +1,14 @@
 appId: com.example.laddermobile
 ---
 #- launchApp
-- tapOn: "Email"
-- inputText: "chrisaydat@gmail.com"
-- tapOn: "Password"
-- inputText: "chrisaydat1CHRIS@"
-- tapOn: "Login"
-- scroll
-- tapOn: "Buy USDC"
+#- tapOn: "Email"
+#- inputText: "chrisaydat@gmail.com"
+#- tapOn: "Password"
+#- inputText: "chrisaydat1CHRIS@"
+#- tapOn: "Login"
+#- scroll
+- tapOn: 
+   text:"Buy USDC"
 - tapOn: "Flex Dollar"
 - tapOn: "Edit"
 - tapOn: "Amount(GHS)"
