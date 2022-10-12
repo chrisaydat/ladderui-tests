@@ -7,6 +7,11 @@ appId: com.example.laddermobile
 - inputText: "chrisaydat1CHRIS@"
 - tapOn: "Login"
 - tapOn: "Profile\nTab 4 of 4"
-- tapOn: "Help"
+- scroll
+- tapOn: 
+   text: "Help"
 - tapOn: "Close Account"
 - tapOn: "Confirm"
+- tapOn: "Cancel"
+
+#no help test/attribute in the latest pull as told by the hierarchy cli command

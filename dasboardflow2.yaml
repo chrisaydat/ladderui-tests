@@ -7,7 +7,8 @@ appId: com.example.laddermobile
 - inputText: "chrisaydat1CHRIS@"
 - tapOn: "Login"
 - scroll
-- tapOn: "Flex Dollar"
+- tapOn: 
+    text: "Buy USDC"
 - tapOn: "Withdraw"
 - tapOn: "Yes, I am sure"
 - tapOn: "Amount(GHS)"

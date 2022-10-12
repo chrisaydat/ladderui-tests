@@ -13,9 +13,10 @@ appId: com.example.laddermobile
 - inputText: "chrisaydat1CHRIS@"
 - tapOn: "New Password"
 - inputText: "chrisaydat1CHRIS@"
-- tapOn: "Confirm Password"
+- tapOn: "Comfirm Password" #says comfirm instead of confirm
 - inputText: "chrisaydat1CHRIS@"
 - tapOn: "Reset Password"
 - tapOn: "OK"
 
 #though new password and confirm password match, confirm password shows error message(passwords do not match)
+#so password reset action button is not clickable

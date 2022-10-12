@@ -1,6 +1,6 @@
 appId: com.example.laddermobile
 ---
-- launchApp
+#- launchApp
 - tapOn: "Email"
 - inputText: "chrisaydat@gmail.com"
 - tapOn: "Password"
@@ -16,8 +16,7 @@ appId: com.example.laddermobile
 - tapOn: "Ok"
 - tapOn: 
     text: "USDC\nFlexible\nFlex Dollar\nBuy & Hold USDC whenever you want."
-- tapOn: 
-    text: "Amount (GHS)"
+- tapOn: "Amount (USDC)"
 - inputText: "1000"
 - tapOn: "Continue"
 - tapOn: "Monthly" # discrepancies, it says once is not a valid choice

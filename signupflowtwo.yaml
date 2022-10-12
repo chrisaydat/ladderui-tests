@@ -1,0 +1,23 @@
+appId: com.example.laddermobile
+---
+#- launchApp
+- tapOn: "Next"
+- tapOn: "Next"
+- tapOn: "Next"
+- tapOn: 
+    text: "Get Started"
+- tapOn: "Sign up with Phone Number"
+- tapOn: "Phone Number"
+- inputText: "0540755223"
+- tapOn: "Password"
+- inputText: "chrisaydat1CHRIS@"
+- tapOn: "Comfirm Password"
+- inputText: "chrisaydat1CHRIS@"
+- tapOn: "Sign Up"
+- tapOn: "Continue"
+- tapOn: "Given Name"
+- inputText: "Chris"
+- tapOn: "Last Name"
+- inputText: "Aydat"
+- tapOn: "Phone Number"
+- inputText: "0540755223"

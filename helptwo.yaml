@@ -16,3 +16,5 @@ appId: com.example.laddermobile
 - tapOn: "Send"
 - tapOn: "Ok"
 - Back
+
+#no help test/attribute in the latest pull as told by the hierarchy cli command
