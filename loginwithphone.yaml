@@ -1,0 +1,8 @@
+- appID: com.example.laddermobile
+---
+- launchApp
+- tapOn: 
+   text: "Phone Number"
+- tapOn:
+   text: "Password"
+- tapOn: "Login"
